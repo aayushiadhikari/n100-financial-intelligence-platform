@@ -1,0 +1,210 @@
+company_id,company_name,year,trend_flag
+ABB,Abbott India Ltd,2024-03,ROE Improving
+ABB,Abbott India Ltd,2024-03,Debt Reducing
+ADANIENSOL,Adani Energy Solutions Ltd,2024-03,ROE Deteriorating
+ADANIENSOL,Adani Energy Solutions Ltd,2024-03,Debt Increasing
+ADANIENT,Adani Enterprises Ltd,2024-03,ROE Improving
+ADANIENT,Adani Enterprises Ltd,2024-03,Debt Increasing
+ADANIGREEN,Adani Green Energy Ltd,2024-03,ROE Deteriorating
+ADANIGREEN,Adani Green Energy Ltd,2024-03,Debt Reducing
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2024-03,ROE Improving
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2024-03,Debt Reducing
+ADANIPOWER,Adani Power Ltd,2024-03,ROE Improving
+ADANIPOWER,Adani Power Ltd,2024-03,Debt Reducing
+AMBUJACEM,Ambuja Cements Ltd,2024-03,ROE Deteriorating
+AMBUJACEM,Ambuja Cements Ltd,2024-03,Debt Reducing
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",2024-03,ROE Deteriorating
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",2024-03,Debt Increasing
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2024-03,ROE Improving
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2024-03,Debt Increasing
+AXISBANK,Axis Bank Ltd,2024-03,ROE Improving
+AXISBANK,Axis Bank Ltd,2024-03,Debt Reducing
+BAJAJ-AUTO,Bajaj Auto Ltd,2024-03,ROE Improving
+BAJAJ-AUTO,Bajaj Auto Ltd,2024-03,Debt Increasing
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03,ROE Deteriorating
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03,Debt Increasing
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2024-03,ROE Improving
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2024-03,Debt Reducing
+BAJFINANCE,Bajaj Finance Ltd,2024-03,ROE Deteriorating
+BAJFINANCE,Bajaj Finance Ltd,2024-03,Debt Reducing
+BANKBARODA,Bank of Baroda,2024-03,ROE Improving
+BANKBARODA,Bank of Baroda,2024-03,Debt Reducing
+BEL,Bharat Electronics Ltd,2024-03,ROE Improving
+BEL,Bharat Electronics Ltd,2024-03,Debt Reducing
+BHARTIARTL,Bharti Airtel Ltd,2024-03,ROE Deteriorating
+BHARTIARTL,Bharti Airtel Ltd,2024-03,Debt Reducing
+BHEL,"Bharat Heavy Electricals Limited
+",2024-03,ROE Deteriorating
+BHEL,"Bharat Heavy Electricals Limited
+",2024-03,Debt Increasing
+BOSCHLTD,Bosch Ltd,2024-03,ROE Improving
+BOSCHLTD,Bosch Ltd,2024-03,Debt Reducing
+BPCL,Bharat Petroleum Corporation Ltd,2024-03,ROE Improving
+BPCL,Bharat Petroleum Corporation Ltd,2024-03,Debt Reducing
+BRITANNIA,Britannia Industries Ltd,2024-03,ROE Deteriorating
+BRITANNIA,Britannia Industries Ltd,2024-03,Debt Reducing
+CANBK,Canara Bank,2024-03,ROE Improving
+CANBK,Canara Bank,2024-03,Debt Reducing
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2024-03,ROE Deteriorating
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2024-03,Debt Increasing
+CIPLA,"Cipla Ltd
+",2024-03,ROE Improving
+CIPLA,"Cipla Ltd
+",2024-03,Debt Reducing
+COALINDIA,Coal India Ltd,2024-03,ROE Deteriorating
+COALINDIA,Coal India Ltd,2024-03,Debt Increasing
+DABUR,Dabur India Ltd,2024-03,ROE Deteriorating
+DABUR,Dabur India Ltd,2024-03,Debt Increasing
+DIVISLAB,Divis Laboratories Ltd,2024-03,ROE Deteriorating
+DIVISLAB,Divis Laboratories Ltd,2024-03,Debt Reducing
+DLF,DLF Ltd,2024-03,ROE Improving
+DLF,DLF Ltd,2024-03,Debt Increasing
+DMART,Avenue Supermarts Ltd,2024-03,ROE Deteriorating
+DMART,Avenue Supermarts Ltd,2024-03,Debt Reducing
+DRREDDY,Dr Reddys Laboratories Ltd,2024-03,ROE Improving
+DRREDDY,Dr Reddys Laboratories Ltd,2024-03,Debt Increasing
+EICHERMOT,Eicher Motors Ltd,2024-03,ROE Improving
+EICHERMOT,Eicher Motors Ltd,2024-03,Debt Increasing
+GAIL,GAIL (India) Ltd,2024-03,ROE Improving
+GAIL,GAIL (India) Ltd,2024-03,Debt Increasing
+GODREJCP,Godrej Consumer Products Ltd,2024-03,ROE Deteriorating
+GODREJCP,Godrej Consumer Products Ltd,2024-03,Debt Increasing
+GRASIM,Grasim Industries Ltd,2024-03,ROE Deteriorating
+GRASIM,Grasim Industries Ltd,2024-03,Debt Increasing
+HAL,Hindustan Aeronautics Ltd,2024-03,ROE Improving
+HAL,Hindustan Aeronautics Ltd,2024-03,Debt Increasing
+HAVELLS,Havells India Ltd,2024-03,ROE Improving
+HAVELLS,Havells India Ltd,2024-03,Debt Increasing
+HCLTECH,HCL Technologies Ltd,2024-03,ROE Improving
+HCLTECH,HCL Technologies Ltd,2024-03,Debt Increasing
+HDFCBANK,HDFC Bank Ltd,2024-03,ROE Deteriorating
+HDFCBANK,HDFC Bank Ltd,2024-03,Debt Reducing
+HDFCLIFE,HDFC Life Insurance Company Ltd,2024-03,ROE Improving
+HDFCLIFE,HDFC Life Insurance Company Ltd,2024-03,Debt Reducing
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2024-03,ROE Improving
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2024-03,Debt Increasing
+HINDALCO,Hindalco Industries Ltd,2024-03,ROE Deteriorating
+HINDALCO,Hindalco Industries Ltd,2024-03,Debt Reducing
+HINDUNILVR,"Hindustan Unilever Ltd
+",2024-03,ROE Deteriorating
+HINDUNILVR,"Hindustan Unilever Ltd
+",2024-03,Debt Increasing
+ICICIBANK,ICICI Bank Ltd,2024-03,ROE Improving
+ICICIBANK,ICICI Bank Ltd,2024-03,Debt Reducing
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2024-03,ROE Deteriorating
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2024-03,Debt Reducing
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2024-03,ROE Deteriorating
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2024-03,Debt Reducing
+INDIGO,Interglobe Aviation Ltd,2024-03,ROE Improving
+INDIGO,Interglobe Aviation Ltd,2024-03,Debt Increasing
+INDUSINDBK,IndusInd Bank Ltd,2024-03,ROE Improving
+INDUSINDBK,IndusInd Bank Ltd,2024-03,Debt Reducing
+INFY,Infosys Ltd,2024-03,ROE Deteriorating
+INFY,Infosys Ltd,2024-03,Debt Reducing
+IOC,"Indian Oil Corporation
+",2024-03,ROE Improving
+IOC,"Indian Oil Corporation
+",2024-03,Debt Reducing
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2024-03,ROE Deteriorating
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2024-03,Debt Reducing
+IRFC,Indian Railway Finance Corporation Ltd,2024-03,ROE Deteriorating
+IRFC,Indian Railway Finance Corporation Ltd,2024-03,Debt Reducing
+ITC,"ITC Ltd
+",2024-03,ROE Deteriorating
+ITC,"ITC Ltd
+",2024-03,Debt Reducing
+JINDALSTEL,Jindal Steel & Power Ltd,2024-03,ROE Improving
+JINDALSTEL,Jindal Steel & Power Ltd,2024-03,Debt Increasing
+JIOFIN,Jio Financial Services Ltd,2024-03,ROE Improving
+JIOFIN,Jio Financial Services Ltd,2024-03,Debt Reducing
+JSWENERGY,JSW Energy Ltd,2024-03,ROE Improving
+JSWENERGY,JSW Energy Ltd,2024-03,Debt Increasing
+JSWSTEEL,JSW Steel Ltd,2024-03,ROE Improving
+JSWSTEEL,JSW Steel Ltd,2024-03,Debt Reducing
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2024-03,ROE Improving
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2024-03,Debt Increasing
+LICI,Life Insurance Corporation of India,2024-03,ROE Deteriorating
+LODHA,Macrotech Developers Ltd,2024-03,ROE Improving
+LODHA,Macrotech Developers Ltd,2024-03,Debt Reducing
+LT,Larsen & Toubro Ltd,2024-03,ROE Improving
+LT,Larsen & Toubro Ltd,2024-03,Debt Increasing
+LTIM,LTIMindtree Ltd,2024-03,ROE Deteriorating
+LTIM,LTIMindtree Ltd,2024-03,Debt Increasing
+M&M,"Mahindra & Mahindra Ltd
+",2024-03,ROE Deteriorating
+M&M,"Mahindra & Mahindra Ltd
+",2024-03,Debt Increasing
+MARUTI,Maruti Suzuki India Ltd,2024-03,ROE Improving
+MARUTI,Maruti Suzuki India Ltd,2024-03,Debt Reducing
+MOTHERSON,Samvardhana Motherson International Ltd,2024-03,ROE Improving
+MOTHERSON,Samvardhana Motherson International Ltd,2024-03,Debt Increasing
+NAUKRI,Info Edge (India) Ltd,2024-03,ROE Improving
+NESTLEIND,Nestle India Ltd,2024-03,ROE Deteriorating
+NESTLEIND,Nestle India Ltd,2024-03,Debt Reducing
+NHPC,"NHPC Ltd
+",2024-03,ROE Deteriorating
+NHPC,"NHPC Ltd
+",2024-03,Debt Increasing
+NTPC,NTPC Ltd,2024-03,ROE Improving
+NTPC,NTPC Ltd,2024-03,Debt Reducing
+ONGC,Oil & Natural Gas Corpn Ltd,2024-03,ROE Improving
+ONGC,Oil & Natural Gas Corpn Ltd,2024-03,Debt Reducing
+PFC,Power Finance Corporation Ltd,2024-03,ROE Improving
+PFC,Power Finance Corporation Ltd,2024-03,Debt Reducing
+PIDILITIND,Pidilite Industries Ltd,2024-03,ROE Improving
+PIDILITIND,Pidilite Industries Ltd,2024-03,Debt Reducing
+PNB,Punjab National Bank,2024-03,ROE Improving
+PNB,Punjab National Bank,2024-03,Debt Reducing
+POWERGRID,Power Grid Corporation of India Ltd,2024-03,ROE Deteriorating
+POWERGRID,Power Grid Corporation of India Ltd,2024-03,Debt Reducing
+RECLTD,REC Ltd,2024-03,ROE Improving
+RECLTD,REC Ltd,2024-03,Debt Reducing
+RELIANCE,"Reliance Industries Ltd
+",2024-03,ROE Deteriorating
+RELIANCE,"Reliance Industries Ltd
+",2024-03,Debt Reducing
+SBILIFE,SBI Life Insurance Company Ltd,2024-03,ROE Deteriorating
+SHREECEM,Shree Cement Ltd,2024-03,ROE Deteriorating
+SHREECEM,Shree Cement Ltd,2024-03,Debt Reducing
+SHRIRAMFIN,"Shriram Finance Ltd
+",2024-03,ROE Improving
+SHRIRAMFIN,"Shriram Finance Ltd
+",2024-03,Debt Increasing
+SIEMENS,Siemens Ltd,2024-09,ROE Improving
+SIEMENS,Siemens Ltd,2024-09,Debt Increasing
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2024-03,ROE Deteriorating
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2024-03,Debt Reducing
+TATACONSUM,Tata Consumer Products Ltd,2024-03,ROE Deteriorating
+TATACONSUM,Tata Consumer Products Ltd,2024-03,Debt Increasing
+TATAMOTORS,Tata Motors Ltd,2024-03,ROE Improving
+TATAMOTORS,Tata Motors Ltd,2024-03,Debt Reducing
+TATAPOWER,"Tata Power Company Ltd
+",2024-03,Debt Reducing
+TATASTEEL,"Tata Steel Ltd
+",2024-03,ROE Deteriorating
+TATASTEEL,"Tata Steel Ltd
+",2024-03,Debt Increasing
+TCS,Tata Consultancy Services Ltd,2024-03,ROE Improving
+TCS,Tata Consultancy Services Ltd,2024-03,Debt Increasing
+TECHM,Tech Mahindra Ltd,2024-03,ROE Deteriorating
+TECHM,Tech Mahindra Ltd,2024-03,Debt Reducing
+TITAN,"Titan Company Ltd
+",2024-03,ROE Improving
+TITAN,"Titan Company Ltd
+",2024-03,Debt Increasing
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2024-03,ROE Improving
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2024-03,Debt Reducing
+TRENT,Trent Ltd,2024-03,ROE Improving
+TRENT,Trent Ltd,2024-03,Debt Reducing
+TVSMOTOR,TVS Motor Company Ltd,2024-03,ROE Improving
+TVSMOTOR,TVS Motor Company Ltd,2024-03,Debt Reducing

@@ -1,0 +1,107 @@
+company_id,company_name,broad_sector,year,market_cap_crore_final,enterprise_value_crore_final,pe_ratio_final,pb_ratio_final,ev_ebitda_final,dividend_yield_pct_final,pe_flag,pb_flag,ev_ebitda_flag,health_score,health_band
+ABB,Abbott India Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,46.84,Weak
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,46.45,Weak
+ADANIENT,Adani Enterprises Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,46.25,Weak
+ADANIGREEN,Adani Green Energy Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,45.83,Weak
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,2024-03,,,,,,,Normal,Normal,Normal,46.8,Weak
+ADANIPOWER,Adani Power Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,47.12,Weak
+AMBUJACEM,Ambuja Cements Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,46.54,Weak
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,2024-03,,,,,,,Normal,Normal,Normal,46.57,Weak
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,2024-03,,,,,,,Normal,Normal,Normal,46.77,Weak
+AXISBANK,Axis Bank Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,48.1,Weak
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,47.04,Weak
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,44.02,Weak
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,51.79,Average
+BAJFINANCE,Bajaj Finance Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,51.76,Average
+BANKBARODA,Bank of Baroda,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.48,Weak
+BEL,Bharat Electronics Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,53.41,Average
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,2024-03,,,,,,,Normal,Normal,Normal,47.25,Weak
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2024-03,,,,,,,Normal,Normal,Normal,46.49,Weak
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.75,Weak
+BPCL,Bharat Petroleum Corporation Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,47.33,Weak
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,46.74,Weak
+CANBK,Canara Bank,Financials,2024-03,,,,,,,Normal,Normal,Normal,44.53,Weak
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.02,Weak
+CIPLA,"Cipla Ltd
+",Healthcare,2024-03,,,,,,,Normal,Normal,Normal,47.95,Weak
+COALINDIA,Coal India Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,56.74,Average
+DABUR,Dabur India Ltd,Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,46.66,Weak
+DIVISLAB,Divis Laboratories Ltd,Healthcare,2024-03,,,,,,,Normal,Normal,Normal,47.49,Weak
+DLF,DLF Ltd,Real Estate,2024-03,,,,,,,Normal,Normal,Normal,46.62,Weak
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.7,Weak
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2024-03,,,,,,,Normal,Normal,Normal,46.69,Weak
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.79,Weak
+GAIL,GAIL (India) Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,46.74,Weak
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,46.52,Weak
+GRASIM,Grasim Industries Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,45.52,Weak
+HAL,Hindustan Aeronautics Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,51.99,Average
+HAVELLS,Havells India Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,46.64,Weak
+HCLTECH,HCL Technologies Ltd,Information Technology,2024-03,,,,,,,Normal,Normal,Normal,47.13,Weak
+HDFCBANK,HDFC Bank Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,38.19,Weak
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.87,Weak
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,47.81,Weak
+HINDALCO,Hindalco Industries Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,51.84,Average
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,49.94,Average
+ICICIBANK,ICICI Bank Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,43.72,Weak
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,47.35,Weak
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.26,Weak
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,51.36,Average
+INDUSINDBK,IndusInd Bank Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.28,Weak
+INFY,Infosys Ltd,Information Technology,2024-03,,,,,,,Normal,Normal,Normal,47.32,Weak
+IOC,"Indian Oil Corporation
+",Energy,2024-03,,,,,,,Normal,Normal,Normal,47.73,Weak
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.76,Weak
+IRFC,Indian Railway Finance Corporation Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.34,Weak
+ITC,"ITC Ltd
+",Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,47.66,Weak
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,46.52,Weak
+JIOFIN,Jio Financial Services Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.89,Weak
+JSWENERGY,JSW Energy Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,46.45,Weak
+JSWSTEEL,JSW Steel Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,46.46,Weak
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,2024-03,,,,,,,Normal,Normal,Normal,43.85,Weak
+LICI,Life Insurance Corporation of India,Financials,2024-03,,,,,,,Normal,Normal,Normal,47.17,Weak
+LODHA,Macrotech Developers Ltd,Real Estate,2024-03,,,,,,,Normal,Normal,Normal,46.56,Weak
+LT,Larsen & Toubro Ltd,Industrials,2024-03,,,,,,,Normal,Normal,Normal,47.27,Weak
+LTIM,LTIMindtree Ltd,Information Technology,2024-03,,,,,,,Normal,Normal,Normal,46.7,Weak
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.18,Weak
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.9,Weak
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.58,Weak
+NAUKRI,Info Edge (India) Ltd,Communication Services,2024-03,,,,,,,Normal,Normal,Normal,46.62,Weak
+NESTLEIND,Nestle India Ltd,Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,46.87,Weak
+NHPC,"NHPC Ltd
+",Energy,2024-03,,,,,,,Normal,Normal,Normal,46.59,Weak
+NTPC,NTPC Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,46.77,Weak
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,47.81,Weak
+PFC,Power Finance Corporation Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,43.17,Weak
+PIDILITIND,Pidilite Industries Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,46.71,Weak
+PNB,Punjab National Bank,Financials,2024-03,,,,,,,Normal,Normal,Normal,50.0,Average
+POWERGRID,Power Grid Corporation of India Ltd,Energy,2024-03,,,,,,,Normal,Normal,Normal,47.24,Weak
+RECLTD,REC Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,44.51,Weak
+RELIANCE,"Reliance Industries Ltd
+",Energy,2024-03,,,,,,,Normal,Normal,Normal,47.88,Weak
+SBILIFE,SBI Life Insurance Company Ltd,Financials,2024-03,,,,,,,Normal,Normal,Normal,46.86,Weak
+SHREECEM,Shree Cement Ltd,Materials,2024-03,,,,,,,Normal,Normal,Normal,46.67,Weak
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,2024-03,,,,,,,Normal,Normal,Normal,45.45,Weak
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,2024-03,,,,,,,Normal,Normal,Normal,47.01,Weak
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,2024-03,,,,,,,Normal,Normal,Normal,46.61,Weak
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,47.87,Weak
+TATAPOWER,"Tata Power Company Ltd
+",Energy,2024-03,,,,,,,Normal,Normal,Normal,46.6,Weak
+TATASTEEL,"Tata Steel Ltd
+",Materials,2024-03,,,,,,,Normal,Normal,Normal,46.69,Weak
+TCS,Tata Consultancy Services Ltd,Information Technology,2024-03,,,,,,,Normal,Normal,Normal,48.23,Weak
+TECHM,Tech Mahindra Ltd,Information Technology,2024-03,,,,,,,Normal,Normal,Normal,46.75,Weak
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.58,Weak
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,2024-03,,,,,,,Normal,Normal,Normal,46.68,Weak
+TRENT,Trent Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.64,Weak
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2024-03,,,,,,,Normal,Normal,Normal,46.32,Weak

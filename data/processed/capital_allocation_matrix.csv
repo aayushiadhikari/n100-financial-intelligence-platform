@@ -1,0 +1,108 @@
+company_id,company_name,health_score,free_cash_flow_cr_final,capex_to_sales_pct,allocation_band
+ABB,Abbott India Ltd,46.84,797.0,7.112326893486067,Aggressive Growth
+ADANIENSOL,Adani Energy Solutions Ltd,46.45,1095.0,29.7645571144698,Aggressive Growth
+ADANIENT,Adani Enterprises Ltd,46.25,-8455.0,19.463602327293845,Capital Stressed
+ADANIGREEN,Adani Green Energy Ltd,45.83,-13347.0,228.4164859002169,Capital Stressed
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",46.8,8250.0,25.33787578151324,Aggressive Growth
+ADANIPOWER,Adani Power Ltd,47.12,17651.0,6.91346745844174,Aggressive Growth
+AMBUJACEM,Ambuja Cements Ltd,46.54,-3295.0,26.963208685162847,Capital Stressed
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",46.57,383.0,8.064431502177449,Aggressive Growth
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",46.77,3556.0,7.17847584166784,Aggressive Growth
+AXISBANK,Axis Bank Ltd,48.1,-14556.0,8.229937185125584,Capital Stressed
+BAJAJ-AUTO,Bajaj Auto Ltd,47.04,6486.0,0.1604635613995988,Balanced
+BAJAJFINSV,Bajaj Finserv Ltd,44.02,-79634.0,9.929155115870342,Capital Stressed
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,51.79,1469.0,27.73207990599295,Aggressive Growth
+BAJFINANCE,Bajaj Finance Ltd,51.76,-79931.0,13.044822818889616,Capital Stressed
+BANKBARODA,Bank of Baroda,46.48,-7559.0,1.0854965830088108,Capital Stressed
+BEL,Bharat Electronics Ltd,53.41,-1265.0,29.228340240773637,Capital Stressed
+BHARTIARTL,Bharti Airtel Ltd,47.25,27809.0,34.063420943846594,Aggressive Growth
+BHEL,"Bharat Heavy Electricals Limited
+",46.49,-2382.0,5.570669233666764,Capital Stressed
+BOSCHLTD,Bosch Ltd,46.75,1536.0,1.691875411012136,Balanced
+BPCL,Bharat Petroleum Corporation Ltd,47.33,25415.0,2.3480024906099985,Balanced
+BRITANNIA,Britannia Industries Ltd,46.74,3050.0,2.844534557815016,Balanced
+CANBK,Canara Bank,44.53,13296.0,1.583438141857961,Balanced
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,46.02,-38538.0,14.898502322183374,Capital Stressed
+CIPLA,"Cipla Ltd
+",47.95,1152.0,11.569799022270503,Aggressive Growth
+COALINDIA,Coal India Ltd,56.74,13617.0,3.151963126387679,Balanced
+DABUR,Dabur India Ltd,46.66,1042.0,7.828119961302805,Aggressive Growth
+DIVISLAB,Divis Laboratories Ltd,47.49,992.0,3.4289356277884,Balanced
+DLF,DLF Ltd,46.62,1010.0,23.79025984129454,Aggressive Growth
+DMART,Avenue Supermarts Ltd,46.7,278.0,4.8593199314812265,Balanced
+DRREDDY,Dr Reddys Laboratories Ltd,46.69,509.0,14.401485130841454,Aggressive Growth
+EICHERMOT,Eicher Motors Ltd,46.79,890.0,17.138364779874212,Aggressive Growth
+GAIL,GAIL (India) Ltd,46.74,4360.0,6.174377758429158,Aggressive Growth
+GODREJCP,Godrej Consumer Products Ltd,46.52,-1365.0,24.36861520998865,Capital Stressed
+GRASIM,Grasim Industries Ltd,45.52,-33833.0,17.647238467528897,Capital Stressed
+HAL,Hindustan Aeronautics Ltd,51.99,1814.0,21.105296073203647,Aggressive Growth
+HAVELLS,Havells India Ltd,46.64,335.0,8.703604088219473,Aggressive Growth
+HCLTECH,HCL Technologies Ltd,47.13,15840.0,6.012027694631208,Aggressive Growth
+HDFCBANK,HDFC Bank Ltd,38.19,35669.0,5.852303374945795,Aggressive Growth
+HDFCLIFE,HDFC Life Insurance Company Ltd,46.87,-2893.0,13.41518692970182,Capital Stressed
+HEROMOTOCO,"Hero MotoCorp Ltd
+",47.81,3095.0,4.8373865410569215,Balanced
+HINDALCO,Hindalco Industries Ltd,51.84,9789.0,6.606254804085904,Aggressive Growth
+HINDUNILVR,"Hindustan Unilever Ltd
+",49.94,10145.0,8.601525138942742,Aggressive Growth
+ICICIBANK,ICICI Bank Ltd,43.72,12547.0,90.7350986734873,Aggressive Growth
+ICICIGI,ICICI Lombard General Insurance Company Ltd,47.35,486.0,9.37667789329819,Aggressive Growth
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,46.26,105.0,8.216417331989769,Aggressive Growth
+INDIGO,Interglobe Aviation Ltd,51.36,9424.0,17.065772669220944,Aggressive Growth
+INDUSINDBK,IndusInd Bank Ltd,46.28,-17468.0,1.3661799422925591,Capital Stressed
+INFY,Infosys Ltd,47.32,20117.0,3.314244810307802,Balanced
+IOC,"Indian Oil Corporation
+",47.73,39635.0,4.052800791393595,Balanced
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,46.76,667.0,5.035128805620609,Aggressive Growth
+IRFC,Indian Railway Finance Corporation Ltd,46.34,7906.0,0.0300243948207918,Balanced
+ITC,"ITC Ltd
+",47.66,18742.0,2.205571077808822,Balanced
+JINDALSTEL,Jindal Steel & Power Ltd,46.52,-2336.0,16.570679588513325,Capital Stressed
+JIOFIN,Jio Financial Services Ltd,46.89,763.0,77.68194070080862,Aggressive Growth
+JSWENERGY,JSW Energy Ltd,46.45,-1963.0,71.36514017064252,Capital Stressed
+JSWSTEEL,JSW Steel Ltd,46.46,-2389.0,8.266573717472543,Capital Stressed
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",43.85,6766.0,15.859665344879708,Aggressive Growth
+LICI,Life Insurance Corporation of India,47.17,853.0,2.986999477520373,Balanced
+LODHA,Macrotech Developers Ltd,46.56,-435.0,28.567274137262505,Capital Stressed
+LT,Larsen & Toubro Ltd,47.27,20445.0,0.9854689683555468,Balanced
+LTIM,LTIMindtree Ltd,46.7,1752.0,11.031337106174508,Aggressive Growth
+M&M,"Mahindra & Mahindra Ltd
+",46.18,-11245.0,4.037302808495952,Capital Stressed
+MARUTI,Maruti Suzuki India Ltd,46.9,4936.0,8.363997800617518,Aggressive Growth
+MOTHERSON,Samvardhana Motherson International Ltd,46.58,925.0,6.732055283102987,Aggressive Growth
+NAUKRI,Info Edge (India) Ltd,46.62,-150.0,33.59621451104101,Capital Stressed
+NESTLEIND,Nestle India Ltd,46.87,2938.0,5.070919078461917,Aggressive Growth
+NHPC,"NHPC Ltd
+",46.59,970.0,61.96013289036545,Aggressive Growth
+NTPC,NTPC Ltd,46.77,8644.0,18.00606159069137,Aggressive Growth
+ONGC,Oil & Natural Gas Corpn Ltd,47.81,42060.0,9.672537521390066,Aggressive Growth
+PFC,Power Finance Corporation Ltd,43.17,-101229.0,3.7253573458058313,Capital Stressed
+PIDILITIND,Pidilite Industries Ltd,46.71,955.0,14.285714285714285,Aggressive Growth
+PNB,Punjab National Bank,50.0,-29445.0,1.3808279466373263,Capital Stressed
+POWERGRID,Power Grid Corporation of India Ltd,47.24,24176.0,28.606330301245556,Aggressive Growth
+RECLTD,REC Ltd,44.51,-59554.0,3.8533577456489256,Capital Stressed
+RELIANCE,"Reliance Industries Ltd
+",47.88,45207.0,12.633572884885115,Aggressive Growth
+SBILIFE,SBI Life Insurance Company Ltd,46.86,-2099.0,23.6544231293754,Capital Stressed
+SHREECEM,Shree Cement Ltd,46.67,1929.0,6.9099946396374445,Aggressive Growth
+SHRIRAMFIN,"Shriram Finance Ltd
+",45.45,-31359.0,0.7090249532813014,Capital Stressed
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,47.01,11372.0,1.5732931933934058,Balanced
+TATACONSUM,Tata Consumer Products Ltd,46.61,26.0,12.567407602262264,Aggressive Growth
+TATAMOTORS,Tata Motors Ltd,47.87,45133.0,5.2022250232915,Aggressive Growth
+TATAPOWER,"Tata Power Company Ltd
+",46.6,3569.0,14.69023092320461,Aggressive Growth
+TATASTEEL,"Tata Steel Ltd
+",46.69,6048.0,6.219373306395661,Aggressive Growth
+TCS,Tata Consultancy Services Ltd,48.23,50429.0,2.528508507926756,Balanced
+TECHM,Tech Mahindra Ltd,46.75,5058.0,2.534810370028464,Balanced
+TITAN,"Titan Company Ltd
+",46.58,1506.0,0.3699788583509513,Balanced
+TORNTPHARM,Torrent Pharmaceuticals Ltd,46.68,3106.0,1.4914243102162563,Balanced
+TRENT,Trent Ltd,46.64,841.0,4.105050505050505,Balanced
+TVSMOTOR,TVS Motor Company Ltd,46.32,-2254.0,2.557159279601482,Capital Stressed
+SIEMENS,Siemens Ltd,46.73,1168.0,2.2571942446043165,Balanced

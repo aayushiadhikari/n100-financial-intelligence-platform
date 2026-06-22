@@ -1,0 +1,3 @@
+from src.analytics.cashflow_intelligence import generate_cashflow_intelligence
+
+generate_cashflow_intelligence()

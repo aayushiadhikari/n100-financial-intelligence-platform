@@ -1,0 +1,3 @@
+from src.analytics.peer_intelligence import generate_peer_intelligence
+
+generate_peer_intelligence()

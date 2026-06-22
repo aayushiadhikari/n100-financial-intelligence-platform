@@ -1,0 +1,3 @@
+from src.analytics.capital_allocation import generate_capital_matrix
+
+generate_capital_matrix()
