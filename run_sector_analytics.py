@@ -1,0 +1,3 @@
+from src.analytics.sector_analytics import generate_sector_analytics
+
+generate_sector_analytics()

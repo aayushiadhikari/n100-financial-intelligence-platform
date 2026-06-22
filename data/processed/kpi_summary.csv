@@ -1,0 +1,2 @@
+total_rows,total_companies,total_kpis,output_file
+1041,90,36,data/processed/kpi_master.csv

@@ -1,0 +1,253 @@
+
+QUERY 1
+
+-- Query 1: Total companies
+SELECT COUNT(*) AS total_companies
+FROM companies;
+
+ total_companies
+              92
+
+--------------------------------------------------------------------------------
+
+
+QUERY 2
+
+-- Query 2: Companies by sector
+SELECT 
+    broad_sector,
+    COUNT(*) AS company_count
+FROM sectors
+GROUP BY broad_sector
+ORDER BY company_count DESC;
+
+          broad_sector  company_count
+            Financials             23
+                Energy             14
+Consumer Discretionary             14
+           Industrials             10
+             Materials              9
+      Consumer Staples              7
+            Healthcare              6
+Information Technology              5
+           Real Estate              2
+Communication Services              2
+
+--------------------------------------------------------------------------------
+
+
+QUERY 3
+
+-- Query 3: Top 10 companies by market cap
+SELECT 
+    c.company_name,
+    m.year,
+    m.market_cap_crore
+FROM market_cap m
+JOIN companies c ON m.company_id = c.id
+ORDER BY m.market_cap_crore DESC
+LIMIT 10;
+
+             company_name year  market_cap_crore
+Mahindra & Mahindra Ltd\n 2024        4173085.48
+Mahindra & Mahindra Ltd\n 2022        3425061.30
+Mahindra & Mahindra Ltd\n 2023        3314570.19
+         Shree Cement Ltd 2024        3154358.33
+    Avenue Supermarts Ltd 2024        3053088.97
+        Tech Mahindra Ltd 2023        3048920.30
+Mahindra & Mahindra Ltd\n 2021        3046586.67
+        Tech Mahindra Ltd 2024        3021095.64
+    Avenue Supermarts Ltd 2023        2748638.95
+    Avenue Supermarts Ltd 2022        2664977.29
+
+--------------------------------------------------------------------------------
+
+
+QUERY 4
+
+-- Query 4: Latest profit and sales
+SELECT 
+    c.company_name,
+    p.year,
+    p.sales,
+    p.net_profit
+FROM profitandloss p
+JOIN companies c ON p.company_id = c.id
+ORDER BY p.year DESC
+LIMIT 20;
+
+                                                               company_name year    sales  net_profit
+                                                           Abbott India Ltd  TTM   6066.0      1285.0
+                                                 Adani Energy Solutions Ltd  TTM  22099.0       589.0
+                                                      Adani Enterprises Ltd  TTM 102311.0      6086.0
+                                                     Adani Green Energy Ltd  TTM  10782.0      1928.0
+                                  Adani Ports & Special Economic Zone Ltd\n  TTM  28443.0      9743.0
+                                                            Adani Power Ltd  TTM  54650.0     12686.0
+                                                         Ambuja Cements Ltd  TTM  32850.0      3871.0
+                        Apollo Hospitals\nChain of Indian private hospitals  TTM  20469.0      1224.0
+Asian Paints\nIndian Multi-National Paint and Coating Manufacturing Company  TTM  34831.0      4631.0
+                                                        Adani Total Gas Ltd  TTM   4826.0       668.0
+
+--------------------------------------------------------------------------------
+
+
+QUERY 5
+
+-- Query 5: Highest ROE companies
+SELECT 
+    c.company_name,
+    f.year,
+    f.return_on_equity_pct
+FROM financial_ratios f
+JOIN companies c ON f.company_id = c.id
+WHERE f.return_on_equity_pct IS NOT NULL
+ORDER BY f.return_on_equity_pct DESC
+LIMIT 10;
+
+           company_name    year  return_on_equity_pct
+Interglobe Aviation Ltd 2013-03              17886.36
+ Bharat Electronics Ltd 2015-03              17100.00
+ Bharat Electronics Ltd 2013-03              15183.33
+ Bharat Electronics Ltd 2014-03              13600.00
+ Bharat Electronics Ltd 2016-03              11141.67
+Interglobe Aviation Ltd 2014-03              10772.73
+ Bharat Electronics Ltd 2017-03              10153.33
+Interglobe Aviation Ltd 2015-03               4939.39
+ Bharat Electronics Ltd 2024-03               4744.05
+ Bharat Electronics Ltd 2018-03               4616.13
+
+--------------------------------------------------------------------------------
+
+
+QUERY 6
+
+-- Query 6: Debt to equity analysis
+SELECT 
+    c.company_name,
+    f.year,
+    f.debt_to_equity
+FROM financial_ratios f
+JOIN companies c ON f.company_id = c.id
+WHERE f.debt_to_equity IS NOT NULL
+ORDER BY f.debt_to_equity DESC
+LIMIT 10;
+
+                       company_name    year  debt_to_equity
+Life Insurance Corporation of India 2019-03        332.5938
+Life Insurance Corporation of India 2020-03        252.9082
+                    Adani Power Ltd 2018-03         59.4319
+             Adani Green Energy Ltd 2022-03         20.2112
+                    Adani Power Ltd 2017-03         17.4947
+                        Canara Bank 2021-03         17.0004
+                        Canara Bank 2019-03         16.9855
+                     Bank of Baroda 2014-03         16.3018
+                        Canara Bank 2020-03         16.2154
+                        Canara Bank 2022-03         16.1894
+
+--------------------------------------------------------------------------------
+
+
+QUERY 7
+
+-- Query 7: Sector average market cap
+SELECT
+    s.broad_sector,
+    AVG(m.market_cap_crore) AS avg_market_cap
+FROM sectors s
+JOIN market_cap m ON s.company_id = m.company_id
+GROUP BY s.broad_sector
+ORDER BY avg_market_cap DESC;
+
+          broad_sector  avg_market_cap
+           Real Estate    1.341465e+06
+            Healthcare    1.211230e+06
+Consumer Discretionary    1.198673e+06
+            Financials    1.029764e+06
+Information Technology    9.923885e+05
+           Industrials    9.565468e+05
+             Materials    9.353292e+05
+                Energy    7.991562e+05
+      Consumer Staples    5.671624e+05
+Communication Services    3.426951e+05
+
+--------------------------------------------------------------------------------
+
+
+QUERY 8
+
+-- Query 8: Companies with positive cash flow
+SELECT 
+    c.company_name,
+    cf.year,
+    cf.net_cash_flow
+FROM cashflow cf
+JOIN companies c ON cf.company_id = c.id
+WHERE cf.net_cash_flow > 0
+ORDER BY cf.net_cash_flow DESC
+LIMIT 10;
+
+       company_name    year  net_cash_flow
+State Bank of India 2021-03        93392.0
+      HDFC Bank Ltd 2018-03        73750.0
+State Bank of India 2017-03        68638.0
+        Canara Bank 2021-03        58291.0
+State Bank of India 2022-03        51198.0
+      Axis Bank Ltd 2022-03        48919.0
+     Bank of Baroda 2014-03        46654.0
+      HDFC Bank Ltd 2023-03        41762.0
+     ICICI Bank Ltd 2020-03        40462.0
+  IndusInd Bank Ltd 2021-03        40324.0
+
+--------------------------------------------------------------------------------
+
+
+QUERY 9
+
+-- Query 9: Stock price data availability
+SELECT
+    c.company_name,
+    COUNT(sp.date) AS price_records
+FROM stock_prices sp
+JOIN companies c ON sp.company_id = c.id
+GROUP BY c.company_name
+ORDER BY price_records DESC
+LIMIT 10;
+
+                 company_name  price_records
+                    Trent Ltd             60
+  Torrent Pharmaceuticals Ltd             60
+          Titan Company Ltd\n             60
+            Tech Mahindra Ltd             60
+             Tata Steel Ltd\n             60
+     Tata Power Company Ltd\n             60
+              Tata Motors Ltd             60
+   Tata Consumer Products Ltd             60
+Tata Consultancy Services Ltd             60
+        TVS Motor Company Ltd             60
+
+--------------------------------------------------------------------------------
+
+
+QUERY 10
+
+-- Query 10: Peer group benchmark companies
+SELECT 
+    peer_group_name,
+    company_id,
+    is_benchmark
+FROM peer_groups
+WHERE is_benchmark = 1;
+
+    peer_group_name company_id  is_benchmark
+      Private Banks   HDFCBANK             1
+Public Sector Banks       SBIN             1
+        IT Services        TCS             1
+    Pharmaceuticals  SUNPHARMA             1
+        Automobiles     MARUTI             1
+     Life Insurance       LICI             1
+          Oil & Gas   RELIANCE             1
+  Power & Utilities       NTPC             1
+              Steel  TATASTEEL             1
+               FMCG HINDUNILVR             1
+
+--------------------------------------------------------------------------------
