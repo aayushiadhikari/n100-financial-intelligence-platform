@@ -1,0 +1,1260 @@
+company_id,year,issue,category,explanation
+ABB,2012-12,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ABB,2012-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2012-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2014-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ABB,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2015-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ABB,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ABB,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ABB,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENSOL,2014-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ADANIENSOL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENSOL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,2015-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIENSOL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENSOL,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENSOL,TTM,pat_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+ADANIENSOL,TTM,eps_cagr_10yr_flag,ZERO_BASE,CAGR edge case handled and documented
+ADANIENT,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIENT,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIENT,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2018-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2019-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2020-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2021-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIGREEN,2022-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2023-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,2024-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIGREEN,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIGREEN,TTM,revenue_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+ADANIGREEN,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+ADANIGREEN,TTM,pat_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+ADANIGREEN,TTM,eps_cagr_5yr_flag,ZERO_BASE,CAGR edge case handled and documented
+ADANIGREEN,TTM,eps_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+ADANIPORTS,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPORTS,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPORTS,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPORTS,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPORTS,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPORTS,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2013-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2014-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2015-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2016-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2017-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2018-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2019-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2020-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+ADANIPOWER,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ADANIPOWER,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ADANIPOWER,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+ADANIPOWER,TTM,pat_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+ADANIPOWER,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+ADANIPOWER,TTM,eps_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+AMBUJACEM,2012-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+AMBUJACEM,2012-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AMBUJACEM,2014-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AMBUJACEM,2021-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+AMBUJACEM,2021-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+APOLLOHOSP,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+APOLLOHOSP,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ASIANPAINT,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ASIANPAINT,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ATGL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ATGL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ATGL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ATGL,TTM,revenue_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+ATGL,TTM,pat_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+ATGL,TTM,eps_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+BAJAJ-AUTO,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJ-AUTO,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJ-AUTO,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+AXISBANK,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+AXISBANK,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+AXISBANK,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJFINSV,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJFINSV,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJHLDNG,2013-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2014-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2015-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2016-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2017-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2018-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2019-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BAJAJHLDNG,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJAJHLDNG,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJAJHLDNG,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJFINANCE,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJFINANCE,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJFINANCE,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BAJFINANCE,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BAJFINANCE,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BANKBARODA,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BANKBARODA,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHARTIARTL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHARTIARTL,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+BHARTIARTL,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+BEL,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BEL,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BEL,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHEL,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHEL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHEL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHEL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHEL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHEL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHEL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHEL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BHEL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BHEL,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+BHEL,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+BOSCHLTD,2013-12,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+BOSCHLTD,2013-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BOSCHLTD,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BOSCHLTD,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BOSCHLTD,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BPCL,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BPCL,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+BRITANNIA,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+BRITANNIA,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CANBK,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+CANBK,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+CHOLAFIN,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2015-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+CHOLAFIN,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2018-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+CHOLAFIN,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2020-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+CHOLAFIN,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CHOLAFIN,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CHOLAFIN,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CIPLA,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CIPLA,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CIPLA,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CIPLA,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+CIPLA,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+CIPLA,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+COALINDIA,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+COALINDIA,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DABUR,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DABUR,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DABUR,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DABUR,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DABUR,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DIVISLAB,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DIVISLAB,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DLF,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DLF,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DLF,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DLF,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DLF,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+DLF,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+DMART,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DMART,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DMART,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DMART,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DMART,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+DRREDDY,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+DRREDDY,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+EICHERMOT,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+EICHERMOT,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+EICHERMOT,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+EICHERMOT,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+EICHERMOT,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+EICHERMOT,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GAIL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GAIL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GAIL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GAIL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GAIL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GAIL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GAIL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GAIL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GAIL,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GODREJCP,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GODREJCP,TTM,pat_cagr_3yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GODREJCP,TTM,pat_cagr_5yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GODREJCP,TTM,pat_cagr_10yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GODREJCP,TTM,eps_cagr_3yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GODREJCP,TTM,eps_cagr_5yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GODREJCP,TTM,eps_cagr_10yr_flag,DECLINE_TO_LOSS,CAGR edge case handled and documented
+GRASIM,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+GRASIM,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GRASIM,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GRASIM,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GRASIM,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GRASIM,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+GRASIM,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAL,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAL,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAVELLS,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAVELLS,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAVELLS,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HAVELLS,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HAVELLS,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2013-06,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2013-06,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HCLTECH,2014-06,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2014-06,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HCLTECH,2015-06,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HCLTECH,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HCLTECH,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCBANK,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCBANK,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HDFCLIFE,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HDFCLIFE,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HEROMOTOCO,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HEROMOTOCO,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDALCO,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDALCO,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDALCO,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDALCO,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDALCO,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+HINDUNILVR,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+HINDUNILVR,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIBANK,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIBANK,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIBANK,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIBANK,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIBANK,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIBANK,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIGI,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2016-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ICICIGI,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIGI,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2016-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+ICICIPRULI,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ICICIPRULI,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ICICIPRULI,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDUSINDBK,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDUSINDBK,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDUSINDBK,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDUSINDBK,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INDUSINDBK,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2016-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+INFY,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2017-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+INFY,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2018-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+INFY,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2019-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+INFY,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INFY,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INFY,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IOC,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IOC,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+IOC,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+IRCTC,2015-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+IRCTC,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2016-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+IRCTC,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRCTC,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+IRCTC,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRFC,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRFC,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+IRFC,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ITC,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ITC,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JINDALSTEL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JINDALSTEL,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+JINDALSTEL,TTM,pat_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+JINDALSTEL,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+JINDALSTEL,TTM,eps_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+JIOFIN,2023-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+JIOFIN,TTM,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+JIOFIN,TTM,revenue_cagr_3yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,revenue_cagr_5yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,revenue_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,pat_cagr_3yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,pat_cagr_5yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,pat_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,eps_cagr_3yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,eps_cagr_5yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JIOFIN,TTM,eps_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+JSWENERGY,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWENERGY,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWENERGY,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWENERGY,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWENERGY,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWENERGY,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWSTEEL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWSTEEL,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWSTEEL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+JSWSTEEL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+JSWSTEEL,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2019-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+LICI,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2020-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+LICI,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2021-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+LICI,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2022-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+LICI,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LICI,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LICI,TTM,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+LICI,TTM,revenue_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+LICI,TTM,pat_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+LICI,TTM,eps_cagr_3yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+LICI,TTM,eps_cagr_5yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+LICI,TTM,eps_cagr_10yr_flag,INSUFFICIENT,CAGR edge case handled and documented
+LODHA,2011-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+LODHA,2011-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2012-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LODHA,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LODHA,2019-03,HIGH_LEVERAGE,formula_discrepancy,D/E > 5 for non-financial company
+LODHA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LODHA,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LODHA,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LT,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LT,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LTIM,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LTIM,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LTIM,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LTIM,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LTIM,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LTIM,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LTIM,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+LTIM,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LTIM,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+LTIM,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+M&M,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+M&M,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+M&M,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+MARUTI,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MARUTI,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MARUTI,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MARUTI,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+MOTHERSON,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+MOTHERSON,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NAUKRI,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NAUKRI,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+NAUKRI,TTM,pat_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+NAUKRI,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+NESTLEIND,2013-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2013-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2014-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2014-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2015-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2015-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2016-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2016-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2017-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2017-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2018-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2018-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2019-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2019-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2020-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2020-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2021-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2021-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2022-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2022-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2023-12,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2023-12,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NESTLEIND,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+NESTLEIND,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+NTPC,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ONGC,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+ONGC,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+ONGC,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PFC,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PFC,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PFC,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PFC,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PFC,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PFC,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PIDILITIND,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PIDILITIND,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PIDILITIND,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PIDILITIND,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+PNB,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+PNB,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+POWERGRID,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+POWERGRID,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+POWERGRID,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+POWERGRID,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+POWERGRID,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+POWERGRID,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+POWERGRID,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+POWERGRID,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+RECLTD,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+RECLTD,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+RECLTD,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SBILIFE,2020-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+SBILIFE,2021-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+SBILIFE,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2022-03,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+SBILIFE,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SBILIFE,TTM,DEBT_FREE,data_source_issue,Interest is zero so ICR is stored as None and label Debt Free
+SHREECEM,2013-06,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHREECEM,2013-06,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SHREECEM,2015-06,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHREECEM,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHREECEM,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SHREECEM,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SHRIRAMFIN,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SHRIRAMFIN,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2014-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2014-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2015-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2016-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2016-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2017-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2018-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2018-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2019-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2019-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2020-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2020-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2021-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2021-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2022-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2022-09,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SIEMENS,2023-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SIEMENS,2024-09,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SUNPHARMA,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SUNPHARMA,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SUNPHARMA,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+SUNPHARMA,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SUNPHARMA,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+SUNPHARMA,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATACONSUM,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATACONSUM,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAMOTORS,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAMOTORS,TTM,pat_cagr_3yr_flag,TURNAROUND,CAGR edge case handled and documented
+TATAMOTORS,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+TATAMOTORS,TTM,eps_cagr_3yr_flag,TURNAROUND,CAGR edge case handled and documented
+TATAMOTORS,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+TATAPOWER,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAPOWER,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAPOWER,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATAPOWER,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATAPOWER,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TATASTEEL,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TATASTEEL,TTM,pat_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+TATASTEEL,TTM,eps_cagr_10yr_flag,TURNAROUND,CAGR edge case handled and documented
+TCS,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TCS,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TCS,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TECHM,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TECHM,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TITAN,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TITAN,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TITAN,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TITAN,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TITAN,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TITAN,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TORNTPHARM,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TORNTPHARM,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2013-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2014-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2015-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2016-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2017-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2018-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2019-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2020-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2021-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2022-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+TRENT,2023-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+TRENT,2024-03,ROE_MISMATCH,data_source_issue,Source ROE appears inconsistent; ratio engine value used for analytics
+INDIGO,2013-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2014-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2015-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2016-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2017-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2018-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2019-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2020-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2021-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2022-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2023-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,2024-03,ROCE_MISMATCH,version_difference,Computed ROCE differs from source ROCE by >5%
+INDIGO,TTM,pat_cagr_3yr_flag,TURNAROUND,CAGR edge case handled and documented
+INDIGO,TTM,pat_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented
+INDIGO,TTM,eps_cagr_3yr_flag,TURNAROUND,CAGR edge case handled and documented
+INDIGO,TTM,eps_cagr_5yr_flag,TURNAROUND,CAGR edge case handled and documented

@@ -1,0 +1,2 @@
+financial_ratios_rows,row_count_pass,missing_required_columns,null_only_columns,edge_case_log_exists,capital_allocation_exists,screener_preview_count,screener_preview_pass
+1164,True,None,None,True,True,50,True
