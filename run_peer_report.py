@@ -1,0 +1,3 @@
+from src.analytics.peer_report import generate_peer_comparison_report
+
+generate_peer_comparison_report()

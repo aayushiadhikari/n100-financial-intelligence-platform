@@ -1,0 +1,2 @@
+screener_output_exists,screener_sheet_count,exactly_6_screener_sheets,all_screeners_between_5_and_50,peer_comparison_exists,peer_sheet_count,exactly_11_peer_sheets,peer_percentile_rows,peer_groups,peer_groups_pass,radar_chart_count,radar_charts_pass,dq_tests_expected
+True,6,True,True,True,11,True,560,11,True,57,True,14

@@ -1,0 +1,681 @@
+company_id,company_name,peer_group_name,metric,value,percentile_rank,year
+MARUTI,Maruti Suzuki India Ltd,Automobiles,roe,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,roe,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,roe,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,roe,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,roe,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,roe,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,roe,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,roce,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,roce,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,roce,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,roce,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,roce,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,roce,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,roce,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,npm,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,npm,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,npm,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,npm,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,npm,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,npm,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,npm,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,debt_to_equity,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,debt_to_equity,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,debt_to_equity,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,debt_to_equity,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,debt_to_equity,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,debt_to_equity,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,debt_to_equity,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,fcf,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,fcf,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,fcf,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,fcf,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,fcf,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,fcf,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,fcf,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,pat_cagr_5yr,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,pat_cagr_5yr,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,pat_cagr_5yr,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,pat_cagr_5yr,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,pat_cagr_5yr,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,pat_cagr_5yr,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,pat_cagr_5yr,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,revenue_cagr_5yr,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,revenue_cagr_5yr,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,revenue_cagr_5yr,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,revenue_cagr_5yr,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,revenue_cagr_5yr,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,revenue_cagr_5yr,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,revenue_cagr_5yr,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,eps_cagr_5yr,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,eps_cagr_5yr,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,eps_cagr_5yr,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,eps_cagr_5yr,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,eps_cagr_5yr,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,eps_cagr_5yr,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,eps_cagr_5yr,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,interest_coverage,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,interest_coverage,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,interest_coverage,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,interest_coverage,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,interest_coverage,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,interest_coverage,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,interest_coverage,,0.0,2024-09
+MARUTI,Maruti Suzuki India Ltd,Automobiles,asset_turnover,,0.0,2024-09
+TATAMOTORS,Tata Motors Ltd,Automobiles,asset_turnover,,0.0,2024-09
+M&M,"Mahindra & Mahindra Ltd
+",Automobiles,asset_turnover,,0.0,2024-09
+BAJAJ-AUTO,Bajaj Auto Ltd,Automobiles,asset_turnover,,0.0,2024-09
+EICHERMOT,Eicher Motors Ltd,Automobiles,asset_turnover,,0.0,2024-09
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Automobiles,asset_turnover,,0.0,2024-09
+TVSMOTOR,TVS Motor Company Ltd,Automobiles,asset_turnover,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,roe,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,roe,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,roe,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,roce,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,roce,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,roce,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,npm,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,npm,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,npm,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,debt_to_equity,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,debt_to_equity,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,debt_to_equity,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,fcf,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,fcf,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,fcf,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,pat_cagr_5yr,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,pat_cagr_5yr,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,pat_cagr_5yr,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,revenue_cagr_5yr,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,revenue_cagr_5yr,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,revenue_cagr_5yr,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,eps_cagr_5yr,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,eps_cagr_5yr,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,eps_cagr_5yr,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,interest_coverage,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,interest_coverage,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,interest_coverage,,0.0,2024-09
+BAJFINANCE,Bajaj Finance Ltd,Consumer Finance,asset_turnover,,0.0,2024-09
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Consumer Finance,asset_turnover,,0.0,2024-09
+SHRIRAMFIN,"Shriram Finance Ltd
+",Consumer Finance,asset_turnover,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,roe,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,roe,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,roe,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,roe,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,roe,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,roe,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,roe,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,roce,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,roce,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,roce,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,roce,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,roce,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,roce,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,roce,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,npm,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,npm,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,npm,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,npm,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,npm,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,npm,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,npm,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,debt_to_equity,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,debt_to_equity,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,debt_to_equity,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,debt_to_equity,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,debt_to_equity,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,debt_to_equity,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,debt_to_equity,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,fcf,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,fcf,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,fcf,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,fcf,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,fcf,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,fcf,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,fcf,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,pat_cagr_5yr,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,pat_cagr_5yr,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,pat_cagr_5yr,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,pat_cagr_5yr,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,pat_cagr_5yr,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,pat_cagr_5yr,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,pat_cagr_5yr,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,revenue_cagr_5yr,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,revenue_cagr_5yr,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,revenue_cagr_5yr,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,revenue_cagr_5yr,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,revenue_cagr_5yr,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,revenue_cagr_5yr,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,revenue_cagr_5yr,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,eps_cagr_5yr,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,eps_cagr_5yr,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,eps_cagr_5yr,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,eps_cagr_5yr,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,eps_cagr_5yr,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,eps_cagr_5yr,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,eps_cagr_5yr,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,interest_coverage,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,interest_coverage,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,interest_coverage,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,interest_coverage,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,interest_coverage,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,interest_coverage,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,interest_coverage,,0.0,2024-09
+HINDUNILVR,"Hindustan Unilever Ltd
+",FMCG,asset_turnover,,0.0,2024-09
+ITC,"ITC Ltd
+",FMCG,asset_turnover,,0.0,2024-09
+BRITANNIA,Britannia Industries Ltd,FMCG,asset_turnover,,0.0,2024-09
+DABUR,Dabur India Ltd,FMCG,asset_turnover,,0.0,2024-09
+NESTLEIND,Nestle India Ltd,FMCG,asset_turnover,,0.0,2024-09
+GODREJCP,Godrej Consumer Products Ltd,FMCG,asset_turnover,,0.0,2024-09
+TATACONSUM,Tata Consumer Products Ltd,FMCG,asset_turnover,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,roe,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,roe,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,roe,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,roe,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,roe,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,roce,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,roce,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,roce,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,roce,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,roce,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,npm,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,npm,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,npm,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,npm,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,npm,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,debt_to_equity,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,debt_to_equity,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,debt_to_equity,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,debt_to_equity,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,debt_to_equity,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,fcf,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,fcf,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,fcf,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,fcf,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,fcf,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,pat_cagr_5yr,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,pat_cagr_5yr,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,pat_cagr_5yr,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,pat_cagr_5yr,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,pat_cagr_5yr,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,revenue_cagr_5yr,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,revenue_cagr_5yr,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,revenue_cagr_5yr,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,revenue_cagr_5yr,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,revenue_cagr_5yr,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,eps_cagr_5yr,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,eps_cagr_5yr,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,eps_cagr_5yr,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,eps_cagr_5yr,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,eps_cagr_5yr,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,interest_coverage,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,interest_coverage,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,interest_coverage,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,interest_coverage,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,interest_coverage,,0.0,2024-09
+TCS,Tata Consultancy Services Ltd,IT Services,asset_turnover,,0.0,2024-09
+INFY,Infosys Ltd,IT Services,asset_turnover,,0.0,2024-09
+HCLTECH,HCL Technologies Ltd,IT Services,asset_turnover,,0.0,2024-09
+TECHM,Tech Mahindra Ltd,IT Services,asset_turnover,,0.0,2024-09
+LTIM,LTIMindtree Ltd,IT Services,asset_turnover,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,roe,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,roe,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,roe,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,roe,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,roce,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,roce,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,roce,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,roce,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,npm,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,npm,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,npm,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,npm,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,debt_to_equity,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,debt_to_equity,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,debt_to_equity,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,debt_to_equity,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,fcf,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,fcf,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,fcf,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,fcf,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,pat_cagr_5yr,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,pat_cagr_5yr,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,pat_cagr_5yr,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,pat_cagr_5yr,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,revenue_cagr_5yr,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,revenue_cagr_5yr,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,revenue_cagr_5yr,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,revenue_cagr_5yr,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,eps_cagr_5yr,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,eps_cagr_5yr,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,eps_cagr_5yr,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,eps_cagr_5yr,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,interest_coverage,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,interest_coverage,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,interest_coverage,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,interest_coverage,,0.0,2024-09
+LICI,Life Insurance Corporation of India,Life Insurance,asset_turnover,,0.0,2024-09
+HDFCLIFE,HDFC Life Insurance Company Ltd,Life Insurance,asset_turnover,,0.0,2024-09
+SBILIFE,SBI Life Insurance Company Ltd,Life Insurance,asset_turnover,,0.0,2024-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Life Insurance,asset_turnover,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,roe,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,roe,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,roe,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,roe,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,roe,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,roce,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,roce,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,roce,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,roce,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,roce,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,npm,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,npm,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,npm,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,npm,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,npm,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,debt_to_equity,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,debt_to_equity,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,debt_to_equity,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,debt_to_equity,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,debt_to_equity,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,fcf,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,fcf,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,fcf,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,fcf,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,fcf,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,pat_cagr_5yr,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,pat_cagr_5yr,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,pat_cagr_5yr,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,pat_cagr_5yr,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,pat_cagr_5yr,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,revenue_cagr_5yr,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,revenue_cagr_5yr,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,revenue_cagr_5yr,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,revenue_cagr_5yr,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,revenue_cagr_5yr,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,eps_cagr_5yr,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,eps_cagr_5yr,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,eps_cagr_5yr,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,eps_cagr_5yr,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,eps_cagr_5yr,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,interest_coverage,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,interest_coverage,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,interest_coverage,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,interest_coverage,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,interest_coverage,,0.0,2024-09
+RELIANCE,"Reliance Industries Ltd
+",Oil & Gas,asset_turnover,,0.0,2024-09
+ONGC,Oil & Natural Gas Corpn Ltd,Oil & Gas,asset_turnover,,0.0,2024-09
+BPCL,Bharat Petroleum Corporation Ltd,Oil & Gas,asset_turnover,,0.0,2024-09
+IOC,"Indian Oil Corporation
+",Oil & Gas,asset_turnover,,0.0,2024-09
+GAIL,GAIL (India) Ltd,Oil & Gas,asset_turnover,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,roe,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,roe,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,roe,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,roe,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,roe,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,roce,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,roce,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,roce,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,roce,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,roce,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,npm,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,npm,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,npm,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,npm,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,npm,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,debt_to_equity,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,debt_to_equity,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,debt_to_equity,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,debt_to_equity,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,debt_to_equity,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,fcf,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,fcf,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,fcf,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,fcf,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,fcf,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,pat_cagr_5yr,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,pat_cagr_5yr,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,pat_cagr_5yr,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,pat_cagr_5yr,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,pat_cagr_5yr,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,revenue_cagr_5yr,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,revenue_cagr_5yr,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,revenue_cagr_5yr,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,revenue_cagr_5yr,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,revenue_cagr_5yr,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,eps_cagr_5yr,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,eps_cagr_5yr,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,eps_cagr_5yr,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,eps_cagr_5yr,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,eps_cagr_5yr,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,interest_coverage,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,interest_coverage,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,interest_coverage,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,interest_coverage,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,interest_coverage,,0.0,2024-09
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharmaceuticals,asset_turnover,,0.0,2024-09
+CIPLA,"Cipla Ltd
+",Pharmaceuticals,asset_turnover,,0.0,2024-09
+DRREDDY,Dr Reddys Laboratories Ltd,Pharmaceuticals,asset_turnover,,0.0,2024-09
+DIVISLAB,Divis Laboratories Ltd,Pharmaceuticals,asset_turnover,,0.0,2024-09
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharmaceuticals,asset_turnover,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,roe,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,roe,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,roe,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,roe,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,roe,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,roe,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,roe,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,roce,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,roce,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,roce,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,roce,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,roce,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,roce,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,roce,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,npm,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,npm,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,npm,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,npm,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,npm,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,npm,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,npm,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,debt_to_equity,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,debt_to_equity,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,debt_to_equity,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,debt_to_equity,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,debt_to_equity,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,debt_to_equity,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,debt_to_equity,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,fcf,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,fcf,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,fcf,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,fcf,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,fcf,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,fcf,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,fcf,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,pat_cagr_5yr,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,revenue_cagr_5yr,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,eps_cagr_5yr,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,interest_coverage,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,interest_coverage,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,interest_coverage,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,interest_coverage,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,interest_coverage,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,interest_coverage,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,interest_coverage,,0.0,2024-09
+NTPC,NTPC Ltd,Power & Utilities,asset_turnover,,0.0,2024-09
+POWERGRID,Power Grid Corporation of India Ltd,Power & Utilities,asset_turnover,,0.0,2024-09
+TATAPOWER,"Tata Power Company Ltd
+",Power & Utilities,asset_turnover,,0.0,2024-09
+ADANIPOWER,Adani Power Ltd,Power & Utilities,asset_turnover,,0.0,2024-09
+NHPC,"NHPC Ltd
+",Power & Utilities,asset_turnover,,0.0,2024-09
+JSWENERGY,JSW Energy Ltd,Power & Utilities,asset_turnover,,0.0,2024-09
+ADANIGREEN,Adani Green Energy Ltd,Power & Utilities,asset_turnover,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,roe,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,roe,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,roe,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,roe,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,roe,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,roce,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,roce,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,roce,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,roce,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,roce,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,npm,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,npm,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,npm,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,npm,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,npm,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,debt_to_equity,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,debt_to_equity,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,debt_to_equity,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,debt_to_equity,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,debt_to_equity,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,fcf,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,fcf,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,fcf,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,fcf,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,fcf,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,pat_cagr_5yr,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,pat_cagr_5yr,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,pat_cagr_5yr,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,pat_cagr_5yr,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,pat_cagr_5yr,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,revenue_cagr_5yr,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,revenue_cagr_5yr,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,revenue_cagr_5yr,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,revenue_cagr_5yr,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,revenue_cagr_5yr,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,eps_cagr_5yr,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,eps_cagr_5yr,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,eps_cagr_5yr,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,eps_cagr_5yr,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,eps_cagr_5yr,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,interest_coverage,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,interest_coverage,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,interest_coverage,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,interest_coverage,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,interest_coverage,,0.0,2024-09
+HDFCBANK,HDFC Bank Ltd,Private Banks,asset_turnover,,0.0,2024-09
+ICICIBANK,ICICI Bank Ltd,Private Banks,asset_turnover,,0.0,2024-09
+AXISBANK,Axis Bank Ltd,Private Banks,asset_turnover,,0.0,2024-09
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Private Banks,asset_turnover,,0.0,2024-09
+INDUSINDBK,IndusInd Bank Ltd,Private Banks,asset_turnover,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,roe,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,roe,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,roe,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,roe,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,roce,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,roce,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,roce,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,roce,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,npm,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,npm,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,npm,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,npm,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,debt_to_equity,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,debt_to_equity,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,debt_to_equity,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,debt_to_equity,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,fcf,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,fcf,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,fcf,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,fcf,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,pat_cagr_5yr,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,pat_cagr_5yr,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,pat_cagr_5yr,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,pat_cagr_5yr,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,revenue_cagr_5yr,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,revenue_cagr_5yr,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,revenue_cagr_5yr,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,revenue_cagr_5yr,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,eps_cagr_5yr,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,eps_cagr_5yr,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,eps_cagr_5yr,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,eps_cagr_5yr,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,interest_coverage,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,interest_coverage,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,interest_coverage,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,interest_coverage,,0.0,2024-09
+SBIN,State Bank of India,Public Sector Banks,asset_turnover,,0.0,2024-09
+BANKBARODA,Bank of Baroda,Public Sector Banks,asset_turnover,,0.0,2024-09
+CANBK,Canara Bank,Public Sector Banks,asset_turnover,,0.0,2024-09
+PNB,Punjab National Bank,Public Sector Banks,asset_turnover,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,roe,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,roe,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,roe,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,roe,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,roce,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,roce,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,roce,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,roce,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,npm,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,npm,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,npm,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,npm,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,debt_to_equity,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,debt_to_equity,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,debt_to_equity,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,debt_to_equity,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,fcf,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,fcf,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,fcf,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,fcf,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,pat_cagr_5yr,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,pat_cagr_5yr,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,pat_cagr_5yr,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,pat_cagr_5yr,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,revenue_cagr_5yr,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,revenue_cagr_5yr,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,revenue_cagr_5yr,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,revenue_cagr_5yr,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,eps_cagr_5yr,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,eps_cagr_5yr,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,eps_cagr_5yr,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,eps_cagr_5yr,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,interest_coverage,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,interest_coverage,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,interest_coverage,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,interest_coverage,,0.0,2024-09
+TATASTEEL,"Tata Steel Ltd
+",Steel,asset_turnover,,0.0,2024-09
+JSWSTEEL,JSW Steel Ltd,Steel,asset_turnover,,0.0,2024-09
+JINDALSTEL,Jindal Steel & Power Ltd,Steel,asset_turnover,,0.0,2024-09
+HINDALCO,Hindalco Industries Ltd,Steel,asset_turnover,,0.0,2024-09

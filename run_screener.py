@@ -1,3 +1,3 @@
-from src.analytics.screener import run_screeners
+from src.screener.engine import run_screener_engine
 
-run_screeners()
+run_screener_engine()
